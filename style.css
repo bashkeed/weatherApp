@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+button{
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+  height: 40px;
+  border-radius: 50px;
+}
+p{
+    text-align: center;
+}
+
+div{
+  height: 400px;
+  width: 30%;
+  border-radius: 20px;
+  background-color: blueviolet;
+  margin: auto;
+}
+
+input{
+    margin: auto;
+     display: block;
+     height: 20px;
+}
+
+#temp{
+  color: blanchedalmond;
+  font-size: large;
+}
